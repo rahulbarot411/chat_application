@@ -35,7 +35,7 @@ const Modal = () => {
           <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className="input" placeholder="Password" required />
           <div align="center">
             <button type="submit" className="button">
-              <span>Start chatting</span>
+              <span>RAHUL'S BLOG</span>
             </button>
           </div>
         </form>
